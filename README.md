@@ -1,10 +1,10 @@
 # Baltimore City High School Graduation Rates Relating to Socioeconomic and Racial Factors
 
 ## Background
-I used Microsoft Excel to conduct data analysis on the innovation rates of US Colleges. I used open data from Opportunity Insights on College Data to generate a cluster analysis model to determine how different colleges are grouped based on metrics related to student innovation. 
+We used Microsoft Excel to conduct data analysis on the education industry in Baltimore City and considered factors relating to socioeconomic status and race. We used open data from Baltimore City to generate a multiple regression analysis, simple linear regression analysis, correlation analysis and cluster analysis model to determine education in Baltimore city is impacted by socioeconomic and racial factors.
 
 ## Business Question
-How are different colleges grouped based on metrics related to university size, patent grants and citations obtained by students?
+How is high school graduation rate impacted by race and median household income?
 
 ## Baltimore City Open Data:
 [High School Completion Rate](https://data.baltimorecity.gov/datasets/bniajfi::high-school-completion-rate?geometry=-76.840%2C39.192%2C-76.401%2C39.378&selectedAttribute=compl14)
@@ -16,6 +16,14 @@ Access the file [here]()
 
 ## Data Analysis
 Click [here](https://github.com/cli103/baltimore-city-hs-graduation/blob/main/step-by-step-instructions) for a step-by-step instructions for the analysis. 
+
+### Multiple Regression Analysis
+
+### Simple Linear Regression Analysis
+
+### Correlation Analysis
+
+### Cluster Analysis
 
 
 ## Conclusion
