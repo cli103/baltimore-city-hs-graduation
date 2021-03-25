@@ -1,0 +1,22 @@
+Multiple Regression 
+1. Click the data analysis tool on Microsoft Excel 
+2. Select the Regression Option
+3. Set the data in the x and y axis sections
+    a. Set the y values as the high school graduation rate
+    b. Set the x values as the median household income, the percentage of White students and the percentage of African American students
+4. A multiple regression analysis will be generated in a new sheet
+
+Simple Regression
+1. Create a scatterplot using the data after selecting relevant columns
+    a. Set high school graduation rate as the y variable
+    b. Set the median household income as the x 
+2. Add graph and axes titles
+3. Add a trend line and the corresponding equation and r squared value
+4. Repeat steps for high school graduation and percentage of African American students 
+
+Correlation
+1. Select all data
+2. Click the data analysis tool on Microsoft Excel 
+3. Select the Correlation Option
+4. A correlation analysis will be generated in a new sheet
+
