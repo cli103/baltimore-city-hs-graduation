@@ -15,7 +15,7 @@ How are different colleges grouped based on metrics related to university size, 
 Access the file [here]()
 
 ## Data Analysis
-Click [here](https://github.com/cli103/innovation-rates-us-colleges/commit/c6232e60c945034c241a7b793047f1cbb4057915) for a step-by-step instructions for the analysis. 
+Click [here](https://github.com/cli103/baltimore-city-hs-graduation/blob/main/step-by-step-instructions) for a step-by-step instructions for the analysis. 
 
 
 ## Conclusion
