@@ -41,6 +41,9 @@ The graph above indicates that a one unit increase in the percentage of African 
 ### Correlation Analysis
 <img width="563" alt="Screen Shot 2021-03-27 at 11 31 37 pm" src="https://user-images.githubusercontent.com/78471393/112720761-954fec80-8f54-11eb-83dd-5d70c266d740.png">
 
+Our correlation analysis found that high school graduation rates were positively correlated with median household income and the percentage of White students, and negatively correlated with the percentage of African American students.
+
+We also found that median household income weas strongly positively correlated with the percentage of White students, and strongly negatively correlated with the percentage of African American students.
 
 ### Cluster Analysis
 
