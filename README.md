@@ -50,7 +50,12 @@ We also found that median household income weas strongly positively correlated w
 
 ## Conclusion
 
+
+We found that our data analysis was related to some of the findings regarding education equity across the US and in Baltimore city. The Education Opportunity Project at Stanford University found that [increasing racial segregation has lead to achievement gaps](https://edopportunity.org/discoveries/segregation-leads-to-inequality/) and that [racial socioeconomic inequality predicts racial academic inequality](https://edopportunity.org/discoveries/racial-inequality-predicts-academic-inequality/). These results relate to our data analysis as we found that the percentage of African American students was a predictor for high school graduation and there was a strong negative correlation between African American students and median household income. While the percentage of white students was not a predictor, it was strongly positively correlated with median household income. Our results could indicate that possible racial effects could arise, particularly as Baltimore schools have high populations of African American students. Below is a graph taken from the Education Opportunity Project at Stanford University website regarding increasing racial segregation in the US over the last 10 years.
 <img width="316" alt="Screen Shot 2021-03-27 at 11 32 22 pm" src="https://user-images.githubusercontent.com/78471393/112720787-aef13400-8f54-11eb-8dfb-2a200a3cf44e.png">
+
+We also found an article by JHU Applied Public Research which found that School conditions affect access to education in Baltimore City. This graph is a breakdown of reasons for lost time due to school infrastructure in Baltimore city. The key reasons are heating and cooling failures, which can be seen in the graph below,  meaning that students often miss school because it is too hot during the summer and too cold during the winter. This perhaps provides some explanation as to why Baltimore city high school graduation rates are lower than the national average. 
+
 <img width="350" alt="Screen Shot 2021-03-27 at 11 32 45 pm" src="https://user-images.githubusercontent.com/78471393/112720805-bd3f5000-8f54-11eb-8577-66515d8d1e70.png">
 
 
