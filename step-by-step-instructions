@@ -1,3 +1,7 @@
+Data Compliation
+1. Download the datasets listed in the open data section
+2. Use vlookup with community names to combine high school completion rate, median income, percentage of White students and percentage of African American students in 2016 for the analysis
+
 Multiple Regression 
 1. Click the data analysis tool on Microsoft Excel 
 2. Select the Regression Option
@@ -19,4 +23,22 @@ Correlation
 2. Click the data analysis tool on Microsoft Excel 
 3. Select the Correlation Option
 4. A correlation analysis will be generated in a new sheet
+
+Cluster Analysis
+1. Calculate the mean and standard deviations of high school completion rate, median income, percentage of White students, and percentage of African American students
+2. Calculate the z scores of the variables in each community with the standardize function in Excel
+3. Select 3 random integers between 1 and 55 as anchor nodes
+4. Use vlookup to find the communities that correspond to the 3 anchor nodes
+5. Similarly, use vlookup to find the corresponding z scores of each variables for the 3 anchor nodes
+6. In new columns, use SUMXMY2 function to find the squared distances between z scores of each variable to each of the 3 anchor nodes
+7. Find the minimum squared distance among those values with MIN function
+8. Use the MATCH function to match the minimum squared distance with squared distance. This tells you which cluster it belongs to
+9. calculate the sum of minimum squared distances
+10. Go to data -> solver, set objective as the cell with minimum squared distances and select min in the line below
+11. In the "by changing variable cells", select the cells with the 3 anchor nodes you picked
+12. Click add to insert constraints for the variable cells. The constraints include the values of the variable cells being integers, larger than 1, and less than the total data points
+13. Set the solving method as evolutionary. Click Options -> evolutionary and change the mutation rate to 0.5, then click solve to find the actual anchor nodes. Save these solved values in the cells
+14. Copy the table with the original values, z scores, squared distances, and cluster anchor number to a new worksheet
+15. Create a pivot table in a new worksheet. Drag cluster anchor number to rows, communities, all variables and all z scores of the variables to values. Communities value should be in count, and the others should be in averages
+16. Create a bar graph for the average z scores of each cluster
 
