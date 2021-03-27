@@ -28,9 +28,15 @@ Above are the results of the multiple regression analysis we conducted. Median h
 Our r-squared value was 0.60 indicating that our model accounted for around 60% of the variation in high school graduation rates. Our F-statistic was also well below 0.05.
 
 ### Simple Linear Regression Analysis
+For the purposes of visualing the significant predictors of high school graduation, we also generated some simple linear regression graphs. The graphs below demonstrate the relationship between the high school graduation rate and median household income and the high school graduation rate and African American students.
+
 ![Picture 1](https://user-images.githubusercontent.com/78471393/112720866-fecffb00-8f54-11eb-8018-3c3e259303a9.png)
 
+The graph above indicates that a one unit increase in median household income results in a 0.0001 unit increase in high school graduation rate.
+
 ![Picture 2](https://user-images.githubusercontent.com/78471393/112720869-01caeb80-8f55-11eb-991e-0fdfd2039c2d.png)
+
+The graph above indicates that a one unit increase in the percentage of African American students in the student population results in a 0.0363 unit decrease in high school graduation rate.
 
 ### Correlation Analysis
 <img width="563" alt="Screen Shot 2021-03-27 at 11 31 37 pm" src="https://user-images.githubusercontent.com/78471393/112720761-954fec80-8f54-11eb-83dd-5d70c266d740.png">
