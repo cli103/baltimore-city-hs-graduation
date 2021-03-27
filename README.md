@@ -10,17 +10,18 @@ How is high school graduation rate impacted by race and median household income 
 1. [High School Completion Rate](https://data.baltimorecity.gov/datasets/bniajfi::high-school-completion-rate?geometry=-76.840%2C39.192%2C-76.401%2C39.378&selectedAttribute=compl14): This [dataset](https://github.com/cli103/baltimore-city-hs-graduation/files/6216253/High_School_Completion_Rate.xlsx) contains information of the percentage of students in 55 communities who satisfy graduation requirements for Maryland High School Diploma or the requirements for a Maryland Certificate of Program Completion from 2010 to 2017.
 2. [Median Household Income](https://data.baltimorecity.gov/datasets/bniajfi::median-household-income): This [dataset](https://github.com/cli103/baltimore-city-hs-graduation/files/6216258/Median_Household_Income.xlsx) contains median household incomes of 55 communities from 2010 to 2019.
 3. [Percent of Students that are African American (non-Hispanic)](https://data.baltimorecity.gov/datasets/bniajfi::percent-of-students-that-are-african-american-non-hispanic?geometry=-77.051%2C39.192%2C-76.190%2C39.378&layer=0): This [dataset](https://github.com/cli103/baltimore-city-hs-graduation/files/6216269/Percent_of_Students_that_are_African_American_.non-Hispanic.xlsx) contains the percentage of Black/African American students that attend Baltimore City Public School from 2010 to 2017. 
+
 4. [Percent of Students that are White (non-Hispanic)](https://data.baltimorecity.gov/datasets/bniajfi::percent-of-students-that-are-white-non-hispanic?geometry=-77.051%2C39.192%2C-76.190%2C39.378): This [dataset](https://github.com/cli103/baltimore-city-hs-graduation/files/6216275/Percent_of_Students_that_are_White__non-Hispanic_.xlsx) contains the percentage of White students that attend Baltimore City Public School from 2010 to 2017. 
 
 ## Data Analysis
-Click [here](https://github.com/cli103/baltimore-city-hs-graduation/blob/main/step-by-step-instructions) for a step-by-step instructions for the analysis and [here](https://github.com/cli103/baltimore-city-hs-graduation/files/6216572/midterm-project-data-analysis-2016.xlsx) for Excel analysis file.
+Click [here](https://github.com/cli103/baltimore-city-hs-graduation/blob/main/step-by-step-instructions) for a step-by-step instructions for the analysis and [here](https://github.com/cli103/baltimore-city-hs-graduation/blob/main/midterm-project-data-analysis-2016.xlsx) for the Excel analysis files.
 
 ### Multiple Regression Analysis
-<img width="604" alt="Screen Shot 2021-03-27 at 11 31 16 pm" src="https://user-images.githubusercontent.com/78471393/112720758-8832fd80-8f54-11eb-83cf-680154f2b683.png">
+<img width="769" alt="Screen Shot 2021-03-28 at 10 07 01 am" src="https://user-images.githubusercontent.com/78471393/112737275-5dc15e80-8fad-11eb-9a53-d9f61287b661.png">
 
 Above are the results of the multiple regression analysis we conducted. Median household income and the percentage of African American students in the school population were found to be significant predictors of high school graduation rates as the p-values were less than 0.05. The percentage of White students in the school population was not found to be a significant predictor as the p-value was greater than 0.05, however, remained low at 0.1263 indicating that the factors are still related. Moreover, as our analysis only considered data from 2016, it is possible a relationship exists in data from other years.
 
-Our r-squared value was 0.60 indicating that our model accounted for around 60% of the variation in high school graduation rates. Our F-statistic was also well below 0.05.
+Our r-squared value was 0.36 indicating that our model only accounted for around 36% of the variation in high school graduation rates. However, our F-statistic was well below 0.05.
 
 ### Simple Linear Regression Analysis
 For the purposes of visualing the significant predictors of high school graduation, we also generated some simple linear regression graphs. The graphs below demonstrate the relationship between the high school graduation rate and median household income and the high school graduation rate and the percentage of African American students.
