@@ -18,7 +18,7 @@ How is high school graduation rate impacted by race and median household income 
 Access the file [here]()
 
 ## Data Analysis
-Click [here](https://github.com/cli103/baltimore-city-hs-graduation/blob/main/step-by-step-instructions) for a step-by-step instructions for the analysis. 
+Click [here](https://github.com/cli103/baltimore-city-hs-graduation/blob/main/step-by-step-instructions) for a step-by-step instructions for the analysis and [here](https://github.com/cli103/baltimore-city-hs-graduation/blob/main/midterm-project-data-analysis-2016.xlsx) for Excel analysis file.
 
 ### Multiple Regression Analysis
 <img width="604" alt="Screen Shot 2021-03-27 at 11 31 16 pm" src="https://user-images.githubusercontent.com/78471393/112720758-8832fd80-8f54-11eb-83cf-680154f2b683.png">
