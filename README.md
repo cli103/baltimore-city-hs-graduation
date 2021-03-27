@@ -61,5 +61,5 @@ We also found an article by [Johns Hopkins Applied Public Research](https://www.
 
 <img width="350" alt="Screen Shot 2021-03-27 at 11 32 45 pm" src="https://user-images.githubusercontent.com/78471393/112720805-bd3f5000-8f54-11eb-8577-66515d8d1e70.png">
 
-
+Baltimore City has begun addressing school conditions in public school by ["doubling its preventive maintenance spending on critical building systems, improving staffing in its engineering department, and implementing a district-wide monitoring system to allow for real-time tracking of temperature."](https://www.arcgis.com/apps/Cascade/index.html?appid=3ddf7ded140d4dc38bedc27d6c0e44f7) Additionally, to combat heating and cooling issues when there are insufficient funds to install central HVAC systems, Baltimore City Public Schools are installing vertical units in classrooms to provide heating and cooling for students and staff.
 
