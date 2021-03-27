@@ -7,13 +7,10 @@ The [national high school graduation rate in 2016](https://www.edweek.org/teachi
 How is high school graduation rate impacted by race and median household income in 2016?
 
 ## Baltimore City Open Data:
-[High School Completion Rate](https://data.baltimorecity.gov/datasets/bniajfi::high-school-completion-rate?geometry=-76.840%2C39.192%2C-76.401%2C39.378&selectedAttribute=compl14)
-
-[Median Household Income](https://data.baltimorecity.gov/datasets/bniajfi::median-household-income)
-
-[Percent of Students that are African American (non-Hispanic)](https://data.baltimorecity.gov/datasets/bniajfi::percent-of-students-that-are-african-american-non-hispanic?geometry=-77.051%2C39.192%2C-76.190%2C39.378&layer=0)
-
-[Percent of Students that are White (non-Hispanic)](https://data.baltimorecity.gov/datasets/bniajfi::percent-of-students-that-are-white-non-hispanic?geometry=-77.051%2C39.192%2C-76.190%2C39.378)
+1. [High School Completion Rate](https://data.baltimorecity.gov/datasets/bniajfi::high-school-completion-rate?geometry=-76.840%2C39.192%2C-76.401%2C39.378&selectedAttribute=compl14): This [dataset](https://github.com/cli103/baltimore-city-hs-graduation/files/6216253/High_School_Completion_Rate.xlsx) contains information of the percentage of students in 55 communities who satisfy graduation requirements for Maryland High School Diploma or the requirements for a Maryland Certificate of Program Completion from 2010 to 2017.
+2. [Median Household Income](https://data.baltimorecity.gov/datasets/bniajfi::median-household-income): This [dataset](https://github.com/cli103/baltimore-city-hs-graduation/files/6216258/Median_Household_Income.xlsx) contains median household incomes of 55 communities from 2010 to 2019.
+3. [Percent of Students that are African American (non-Hispanic)](https://data.baltimorecity.gov/datasets/bniajfi::percent-of-students-that-are-african-american-non-hispanic?geometry=-77.051%2C39.192%2C-76.190%2C39.378&layer=0): This [dataset](https://github.com/cli103/baltimore-city-hs-graduation/files/6216269/Percent_of_Students_that_are_African_American_.non-Hispanic.xlsx) contains the percentage of Black/African American students that attend Baltimore City Public School from 2010 to 2017. 
+4. [Percent of Students that are White (non-Hispanic)](https://data.baltimorecity.gov/datasets/bniajfi::percent-of-students-that-are-white-non-hispanic?geometry=-77.051%2C39.192%2C-76.190%2C39.378): This [dataset](https://github.com/cli103/baltimore-city-hs-graduation/files/6216275/Percent_of_Students_that_are_White__non-Hispanic_.xlsx) contains the percentage of White students that attend Baltimore City Public School from 2010 to 2017. 
 
 Access the file [here]()
 
