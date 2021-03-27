@@ -21,12 +21,28 @@ Access the file [here]()
 Click [here](https://github.com/cli103/baltimore-city-hs-graduation/blob/main/step-by-step-instructions) for a step-by-step instructions for the analysis. 
 
 ### Multiple Regression Analysis
+<img width="604" alt="Screen Shot 2021-03-27 at 11 31 16 pm" src="https://user-images.githubusercontent.com/78471393/112720758-8832fd80-8f54-11eb-83cf-680154f2b683.png">
+
+Above are the results of the multiple regression analysis we conducted. Median household income and the percentage of african american students in the school population were found to be significant predictors of high school graduation rates as the p-values were less than 0.05. The percentage of white students in the school population was not found to be a significant predictor as the p-value was greater than 0.05, however, remained low indicating that the factors are related. Moreover, as our analysis only considered data from 2016, it is possible a relationship exists in data from other years.
+
+Our r-squared value was 0.60 indicating that our model accounted for around 60% of the variation in high school graduation rates. Our F-statistic was also well below 0.05.
 
 ### Simple Linear Regression Analysis
+![Picture 1](https://user-images.githubusercontent.com/78471393/112720866-fecffb00-8f54-11eb-8018-3c3e259303a9.png)
+
+![Picture 2](https://user-images.githubusercontent.com/78471393/112720869-01caeb80-8f55-11eb-991e-0fdfd2039c2d.png)
 
 ### Correlation Analysis
+<img width="563" alt="Screen Shot 2021-03-27 at 11 31 37 pm" src="https://user-images.githubusercontent.com/78471393/112720761-954fec80-8f54-11eb-83dd-5d70c266d740.png">
+
 
 ### Cluster Analysis
 
 
 ## Conclusion
+
+<img width="316" alt="Screen Shot 2021-03-27 at 11 32 22 pm" src="https://user-images.githubusercontent.com/78471393/112720787-aef13400-8f54-11eb-8dfb-2a200a3cf44e.png">
+<img width="350" alt="Screen Shot 2021-03-27 at 11 32 45 pm" src="https://user-images.githubusercontent.com/78471393/112720805-bd3f5000-8f54-11eb-8577-66515d8d1e70.png">
+
+
+
