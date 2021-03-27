@@ -27,7 +27,7 @@ For the purposes of visualing the significant predictors of high school graduati
 
 ![Picture 1](https://user-images.githubusercontent.com/78471393/112720866-fecffb00-8f54-11eb-8018-3c3e259303a9.png)
 
-The graph above indicates that a one unit increase in median household income results in a 0.0001 unit increase in high school graduation rate.
+The graph above indicates that a 1000 increase in median household income results in a 0.1 unit increase in high school graduation rate.
 
 ![Picture 2](https://user-images.githubusercontent.com/78471393/112720869-01caeb80-8f55-11eb-991e-0fdfd2039c2d.png)
 
